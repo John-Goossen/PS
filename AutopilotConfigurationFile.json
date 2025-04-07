@@ -1,0 +1,15 @@
+{
+  "CloudAssignedForcedEnrollment": 1,
+  "CloudAssignedTenantDomain": "eventide.org",
+  "Version": 2049,
+  "CloudAssignedAadServerData": "{\"ZeroTouchConfig\":{\"CloudAssignedTenantUpn\":\"\",\"ForcedEnrollment\":1,\"CloudAssignedTenantDomain\":\"eventide.org\"}}",
+  "CloudAssignedLanguage": "os-default",
+  "CloudAssignedDeviceName": "T-%SERIAL%",
+  "ZtdCorrelationId": "e1fdce72-2a7e-47ca-b5f2-536ff8e53ac9",
+  "CloudAssignedDomainJoinMethod": 0,
+  "CloudAssignedAutopilotUpdateTimeout": 1800000,
+  "Comment_File": "Profile TabithaWindows",
+  "CloudAssignedOobeConfig": 1310,
+  "CloudAssignedAutopilotUpdateDisabled": 1,
+  "CloudAssignedTenantId": "14024eb0-9682-4542-99b8-777deb25263c"
+}
